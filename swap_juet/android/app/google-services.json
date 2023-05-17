@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392590437090",
+    "project_id": "juet-swap-final",
+    "storage_bucket": "juet-swap-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392590437090:android:1d25a7802175e42b18ccbb",
+        "android_client_info": {
+          "package_name": "com.example.swap_juet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392590437090-coeai80k8jbgsjk8s40km5peu228k8j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNK5wifQ5LGgpdsETBZFi-cNGoAerreM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392590437090-coeai80k8jbgsjk8s40km5peu228k8j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
